@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+@font-face{
+	font-family: 'OpenSans';
+	src: url("../lib/fonts/Open_Sans/OpenSans-Light.ttf");
+	font-size: 1em;
+}
+
+@font-face{
+	font-family: 'OpenSans-Ligth';
+	src: url("../lib/Open_Sans/OpenSans-Regular.ttf")
+}
+
+p{
+	color: red;
+	font-size: 20pt;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
